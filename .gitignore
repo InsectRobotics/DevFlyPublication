@@ -1,0 +1,4 @@
+LSH/datasets/*
+.idea*
+.pyc
+**/__pycache__
